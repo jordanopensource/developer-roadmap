@@ -26,6 +26,7 @@ HTML provides the skeleton of a webpage. Learn the basics of HTML; learn the bas
 * [W3Schools – HTML Tutorial](https://www.w3schools.com/html/default.asp)
 * [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+* [Tailwind CSS](https://tailwindcss.com/)
 
 ### Style your pages with CSS
 
