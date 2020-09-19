@@ -1,6 +1,6 @@
 # Front-end Roadmap
 
-Based on the [Frontend Developer on roadmap.sh](https://roadmap.sh/frontend)
+Based on the [Frontend Developer Roadmap on roadmap.sh](https://roadmap.sh/frontend)
 
 ## Learning Resources
 
